@@ -9,17 +9,7 @@ import { Grid, Cell, Spacer, Button } from "react-mdl";
 const Header = () => {
     return (
         <div className="container">
-        <div className="row">
-            <Card className="col-12 col-md-3 " >
-                <CardImg  src={"kid.jpg"} />    
-            </Card>
-            <Card className="col-12 col-md-3 " >
-                <CardImg src={"man.jpeg"} />
-            </Card>
-            <Card className="col-12 col-md-3 " >
-                <CardImg src={"woman.jpg"} />
-            </Card>
-            </div>
+       
             </div>
             
                     
